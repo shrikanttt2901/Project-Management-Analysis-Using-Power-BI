@@ -52,7 +52,7 @@ This dashboard helps organizations:
 
 ## Project Preview
 ## Dashboard Preview
-![Dashboard](projectdashboard.png)
+![Dashboard](project-dashboard.png)
 
 ## Table View
 ![Table](tableview.png)
