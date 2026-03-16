@@ -52,10 +52,10 @@ This dashboard helps organizations:
 
 ## Project Preview
 ## Dashboard Preview
-![Dashboard](project-dashboard.png)
+![Dashboard](Project-Dashboard.png)
 
 ## Table View
-![Table](tableview.png)
+![Table](Tableview.png)
 
 ## Author
 Shrikant Jarande
