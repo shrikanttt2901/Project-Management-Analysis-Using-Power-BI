@@ -1,5 +1,4 @@
 # Project-Management-Analysis-Using-Power-BI
-# Project Management Analysis Dashboard
 
 ## Project Description
 This project focuses on analyzing project performance using an interactive dashboard. The objective of this project is to provide insights into project cost, project benefit, project phases, and profitability across different departments.
